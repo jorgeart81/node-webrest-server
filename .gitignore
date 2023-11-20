@@ -11,4 +11,4 @@ logs/
 !.env.template
 
 # Docker
-postgres/
+/postgres
